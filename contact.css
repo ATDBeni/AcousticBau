@@ -1,0 +1,10 @@
+.contact-input > input {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.contact-input{
+    width: 50%;
+    background-color: red;
+    
+}
